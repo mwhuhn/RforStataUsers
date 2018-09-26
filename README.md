@@ -1,4 +1,4 @@
-# RforStataUsers
+# R for Stata Users
 Introduction to R for Stata Users
 
 Prerequisites:
